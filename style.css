@@ -1,0 +1,61 @@
+.row1
+{
+    width:100%;
+    height:50px;
+    background-color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:5px;
+    margin-bottom: 5px;
+}
+.row2
+{
+    width:100%;
+    height:50px;
+    background-color:red;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:700px;
+}
+.first
+{
+    width:800px;
+    height:30px;
+    display:1;
+    background-color:greenyellow;
+    justify-content:center;
+    align-items:center;
+   
+}
+.second
+{
+    width:500px;
+    height:30px;
+    display:1;
+    background-color:greenyellow;
+    justify-content:center;
+    align-items:center;
+   
+}
+.third
+{
+    width:200px;
+    height:30px;
+    display:1;
+    background-color:grey;
+    justify-content:left;
+    align-items:left;
+   
+}
+.fourth
+{
+    width:200px;
+    height:30px;
+    display:1;
+    background-color:grey;
+    justify-content:right;
+    align-items:right;
+   
+}
